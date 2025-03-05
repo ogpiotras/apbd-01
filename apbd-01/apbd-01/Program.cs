@@ -2,5 +2,6 @@
 Console.WriteLine("Hello, World!");
 
 int a = 10;
+int b = 10;
 
 
